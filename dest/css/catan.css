@@ -228,27 +228,27 @@
 }
 
 #catan-page .main_content .catan-table div[class*="catan-content-inner-cel"] .hexagon .hexagon__inner-1 .hexagon__inner-2 .hexagon__inner-3 .hexagon__inner-image.sheep, #catan-page .main_content .catan-back div[class*="catan-content-inner-cel"] .hexagon .hexagon__inner-1 .hexagon__inner-2 .hexagon__inner-3 .hexagon__inner-image.sheep {
-  background: url("http://nu-blogsite.net/content/catan/sheep.png") center/cover no-repeat;
+  background: url("sheep.png") center/cover no-repeat;
 }
 
 #catan-page .main_content .catan-table div[class*="catan-content-inner-cel"] .hexagon .hexagon__inner-1 .hexagon__inner-2 .hexagon__inner-3 .hexagon__inner-image.soil, #catan-page .main_content .catan-back div[class*="catan-content-inner-cel"] .hexagon .hexagon__inner-1 .hexagon__inner-2 .hexagon__inner-3 .hexagon__inner-image.soil {
-  background: url("http://nu-blogsite.net/content/catan/soil.png") center/cover no-repeat;
+  background: url("soil.png") center/cover no-repeat;
 }
 
 #catan-page .main_content .catan-table div[class*="catan-content-inner-cel"] .hexagon .hexagon__inner-1 .hexagon__inner-2 .hexagon__inner-3 .hexagon__inner-image.steel, #catan-page .main_content .catan-back div[class*="catan-content-inner-cel"] .hexagon .hexagon__inner-1 .hexagon__inner-2 .hexagon__inner-3 .hexagon__inner-image.steel {
-  background: url("http://nu-blogsite.net/content/catan/steel.png") center/cover no-repeat;
+  background: url("steel.png") center/cover no-repeat;
 }
 
 #catan-page .main_content .catan-table div[class*="catan-content-inner-cel"] .hexagon .hexagon__inner-1 .hexagon__inner-2 .hexagon__inner-3 .hexagon__inner-image.sult, #catan-page .main_content .catan-back div[class*="catan-content-inner-cel"] .hexagon .hexagon__inner-1 .hexagon__inner-2 .hexagon__inner-3 .hexagon__inner-image.sult {
-  background: url("http://nu-blogsite.net/content/catan/sult.png") center/cover no-repeat;
+  background: url("sult.png") center/cover no-repeat;
 }
 
 #catan-page .main_content .catan-table div[class*="catan-content-inner-cel"] .hexagon .hexagon__inner-1 .hexagon__inner-2 .hexagon__inner-3 .hexagon__inner-image.wheat, #catan-page .main_content .catan-back div[class*="catan-content-inner-cel"] .hexagon .hexagon__inner-1 .hexagon__inner-2 .hexagon__inner-3 .hexagon__inner-image.wheat {
-  background: url("http://nu-blogsite.net/content/catan/wheat.png") center/cover no-repeat;
+  background: url("wheat.png") center/cover no-repeat;
 }
 
 #catan-page .main_content .catan-table div[class*="catan-content-inner-cel"] .hexagon .hexagon__inner-1 .hexagon__inner-2 .hexagon__inner-3 .hexagon__inner-image.wood, #catan-page .main_content .catan-back div[class*="catan-content-inner-cel"] .hexagon .hexagon__inner-1 .hexagon__inner-2 .hexagon__inner-3 .hexagon__inner-image.wood {
-  background: url("http://nu-blogsite.net/content/catan/wood.png") center/cover no-repeat;
+  background: url("wood.png") center/cover no-repeat;
 }
 
 #catan-page .main_content .catan-table {
